@@ -1,0 +1,72 @@
+{
+  "header": {
+    "name": "Tanawan Ariya",
+    "nickname": "Man",
+    "left_col": [
+      {
+        "title": "man.tanawan2546@gmail.com",
+        "link": "man.tanawan2546@gmail.com"
+      },
+      {
+        "title": "098-794-6658",
+        "link": "tel:098-794-6658"
+      },
+      {
+        "title": "Chaing Mai, Thailand"
+      }
+    ],
+    "right_col": [
+      {
+        "title": "github.com/huangwanzi",
+        "link": "//github.comhuangwanzi"
+      }
+    ]
+  },
+  "body": {
+    "overview": {
+      "title": "Overview",
+      "content": "I am Tanawan Ariya, Computer Science student at Maejo University with a passion for learning,3rd a Third-year Computer Science student at Maejo University, Im have a bisic skills and experience necessary to succeed in a computer science career."
+    },
+    "skills": {
+      "title": "Programming & Technologies",
+      "content": [
+        {
+          "content": [
+            "<b>Languages:</b> SQL, Python,CSS, HTML.",
+            "<b>Frameworks:</b> VueJS, Bootstrap",
+            "<b>Databases:</b> Firebase (Firestore & Authentication), MySQL.",
+            "<b>Office:</b>  Excel, PowerPoint, Word"
+          ]
+        }
+      ]
+    },
+
+    "education": {
+      "title": "Education",
+      "content": ["<b>B. Computer Science, Maejo University</b>, TH 2021 - present [ GPAX 2.67 ]"]
+    },
+    "events": {
+      "title": "Events",
+      "content": [
+        {
+          "content": [
+            "<b>ComCamp 20th</b> - a computer science camp.",
+            "<b>ComCamp 21th</b> - a computer science camp."
+          ]
+        }
+      ]
+    },
+    "interest": {
+      "title": "Interest",
+      "content": [
+        {
+          "content": [
+            "Areas : Coding, Teble tennis, Data",
+            "Music : Lofi"
+          
+          ]
+        }
+      ]
+    }
+  }
+}

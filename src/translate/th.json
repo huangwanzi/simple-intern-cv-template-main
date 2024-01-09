@@ -1,0 +1,72 @@
+{
+  "header": {
+    "name": "ธนวันต์ อริยะ",
+    "nickname": "แมน",
+    "left_col": [
+      {
+        "title": "mju6404101362@mju.ac.th"
+      },
+      {
+        "title": "man.tanawan2546@gmail.com"
+      },
+      {
+        "title": "098-794-6658"
+      },
+      {
+        "title": "เชียงใหม่, ประเทศไทย"
+      }
+    ],
+    "right_col": [
+      {
+        "title": "github.com/huangwanzi",
+        "link": "//github.com/huangwanzi"
+      }
+    ]
+  },
+  "body": {
+    "overview": {
+      "title": "เกี่ยวกับฉัน",
+      "content": "ผมชื่อ ธนวันต์ อริยะ ,นักศึกษามหาวิทยาลัยแม่โจ้, ชั้นปีที่3สาขาวิทยาการคอมพิวเตอร์,ผมมีทักษะและประสบการณ์ที่จำเป็นต่อการประสบความสำเร็จในอาชีพวิทยาศาสตร์คอมพิวเตอร์"
+    },
+    "skills": {
+      "title": "ภาษาและเทคโนโลยีที่ใช้",
+      "content": [
+        {
+          "content": [
+            "<b>Languages:</b> SQL, Python,CSS, HTML.",
+            "<b>Frameworks:</b> VueJS, Bootstrap",
+            "<b>Databases:</b> Firebase (Firestore & Authentication), MySQL.",
+            "<b>Office:</b>  Excel, PowerPoint, Word"
+          ]
+        }
+      ]
+    },
+
+    "education": {
+      "title": "การศึกษา",
+      "content": ["<b>ปริญญาตรี. วิทยาการคอมพิวเตอร์</b> มหาวิทยาลัยแม่โจ้, 2021 - ปัจจุบัน [ GPAX 2.67 ]"]
+    },
+    "events": {
+      "title": "กิจกรรม",
+      "content": [
+        {
+          "content": [
+            "<b>โครงการค่ายยุวชนคอมพิวเตอร์ ครั้งที่ 20</b>.",
+            "<b>โครงการค่ายยุวชนคอมพิวเตอร์ ครั้งที่ 21</b>."
+          ]
+        }
+      ]
+    },
+    "interest": {
+      "title": "ความสนใจ",
+      "content": [
+        {
+          "content": [
+            "ความสนใจพิเศษ : Code, ปิงปอง, Data ",
+            "แนวเพลง : Lofi"
+          ]
+        }
+      ]
+    }
+  }
+}
